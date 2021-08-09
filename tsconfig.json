@@ -1,0 +1,16 @@
+  
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "declaration": true,
+        "strict": true,
+        "strictNullChecks": false,
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "outDir": "lib"
+    },
+    "files": [
+        "index.ts"
+    ]
+}
